@@ -128,6 +128,23 @@ body {
   }
 }
 
+main {
+  margin-top: 4em;
+}
+
+main h1 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+main h2 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  border-bottom: .2em solid;
+}
+article p {
+  font-family: 'Inconsolata', monospace;
+}
+
 footer {
   text-align: center;
 }
